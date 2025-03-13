@@ -1,4 +1,4 @@
-<p align="center" size>Hello there, Eu sou o Gabriel Pereira <br><br> Sou Cientista da Computação apaixonado por resolver novos desafios. Sempre gosto de aprender novas linguagens de programações e conceitos, para conseguir desenvolver projetos mais complexos e desafiadores.
+<p align="center" size>Hello there, I'm Gabriel Pereira! <br><br>A Computer Scientist passionate about solving new challenges. I'm always looking to enhance my skills in Object-Oriented Programming and Web Development, constantly learning new technologies and refining my approach to problem-solving.<br>I love diving into new technologies, learning different programming languages, and solving complex problems. Whether it's crafting elegant code or building dynamic web applications, I'm always looking for ways to push the boundaries of what I can create.<br>"As Uncle Ben said, with great power comes great responsibility—and with great code, even greater possibilities!"
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
